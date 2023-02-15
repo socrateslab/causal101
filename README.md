@@ -6,7 +6,7 @@
 - Notebook https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb
 Cancel changes
 
-- Reading list in Week 1
+# Reading list in Week 1
 
 Reading list:
 Lipsky, A. M., & Greenland, S. (2022). Causal directed acyclic graphs. JAMA, 327(11), 1083-1084.
